@@ -1,0 +1,10 @@
+﻿  1.cpp
+C:\Users\gmldm\Documents\GitHub\uos_C2023\3W_assignment1\3W_assignment1\1.cpp(6,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\gmldm\Documents\GitHub\uos_C2023\3W_assignment1\3W_assignment1\1.cpp(6,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\gmldm\Documents\GitHub\uos_C2023\3W_assignment1\3W_assignment1\1.cpp(10,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\gmldm\Documents\GitHub\uos_C2023\3W_assignment1\3W_assignment1\1.cpp(10,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\gmldm\Documents\GitHub\uos_C2023\3W_assignment1\3W_assignment1\1.cpp(14,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\gmldm\Documents\GitHub\uos_C2023\3W_assignment1\3W_assignment1\1.cpp(14,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\gmldm\Documents\GitHub\uos_C2023\3W_assignment1\3W_assignment1\1.cpp(18,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\gmldm\Documents\GitHub\uos_C2023\3W_assignment1\3W_assignment1\1.cpp(18,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+  3W_assignment1.vcxproj -> C:\Users\gmldm\Documents\GitHub\uos_C2023\3W_assignment1\x64\Debug\3W_assignment1.exe
