@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="과제1_진법변환기.cpp">
+    <ClCompile Include="과제1_진법변환기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
